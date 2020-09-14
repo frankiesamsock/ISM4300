@@ -1,7 +1,7 @@
 ﻿/* 
   Author: Frank Samsock
   Date: 9/13/2020
-  Description: This is code created to demonstrate the use of *iterative statements* 
+  Description: This is code created to demonstrate the use of iterative statements 
   after getting input from a user.
 */
 using System;
